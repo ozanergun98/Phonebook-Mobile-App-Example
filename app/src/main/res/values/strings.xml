@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OzanErgun_HW2</string>
+    <string name="nameTitle">Name:</string>
+    <string name="numberTitle">Number: +90 5</string>
+    <string name="btnAdd">Add Contact</string>
+    <string name="btnList">Contact List</string>
+    <string name="customDialogQuestion">Do you want to delete this contact?</string>
+    <string name="btnClose">close</string>
+    <string name="btnUpdate">update</string>
+    <string name="btnDelete">delete</string>
+</resources>
